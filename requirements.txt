@@ -1,0 +1,13 @@
+streamlit
+crawl4ai
+crewai
+crewai_tools
+google-generativeai
+Markdown
+python-docx
+beautifulsoup4
+playwright
+selenium
+pandas
+openpyxl
+requests
