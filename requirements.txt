@@ -11,4 +11,4 @@ selenium
 pandas
 openpyxl
 requests
-pysqlite3
+pysqlite3-binary
