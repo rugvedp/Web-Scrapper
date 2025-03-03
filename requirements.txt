@@ -11,3 +11,4 @@ selenium
 pandas
 openpyxl
 requests
+pysqlite3
