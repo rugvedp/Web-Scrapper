@@ -12,3 +12,4 @@ pandas
 openpyxl
 requests
 pysqlite3-binary
+webdriver_manager
