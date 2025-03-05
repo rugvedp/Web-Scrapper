@@ -23,6 +23,7 @@ username = st.secrets['username']
 password = st.secrets['password']
 os.environ['GEMINI_API_KEY'] = st.secrets['GEMINI_API_KEY']
 os.environ['SAMBANOVA_API_KEY'] = st.secrets['SAMBANOVA_API_KEY']
+os.environ['GROQ_API_KEY'] = st.secrets['GROQ_API_KEY']
 
 def main():
     st.title("Web Crawler & Summarizer")
